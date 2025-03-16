@@ -59,7 +59,8 @@ extra:
 copyright: Copyright &copy; 2024 LanpartyGoDS
 
 plugins:
-  - search:
+  - search
+  - rss
   - blog: 
       blog_dir: .
       archive_date_format: yyyy/MM
