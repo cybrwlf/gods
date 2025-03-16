@@ -1,0 +1,29 @@
+authors:
+  cybrwlf: 
+    name: CybrWlf
+    description: Veteran Member
+    avatar:  ./authors/cybrwlf.jpg
+    url: ../authors/cybrwlf/
+    
+  heller:
+    name: Heller
+    description: Member
+    avatar: ./authors/heller.jpg
+    url: ../authors/heller/
+
+  abysal: 
+    name: Abysal
+    description: Veteran Member
+    avatar:  ./authors/abysal.jpg
+    url: ../authors/abysal/
+  doomxexec311:
+    name: DoomXexec311
+    description: Member
+    avatar: ./authors/doom.jpg
+    url: ../authors/doom/
+  cyberfirex:
+    name: CybrFireX
+    description: Veteran Member
+    avatar:  ./authors/cyberfirex.jpg
+    url: ../authors/cyberfirex/
+    
