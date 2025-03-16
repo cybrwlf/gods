@@ -27,82 +27,75 @@ Reviewer: [CybrWlf](../authors/cybrwlf/)
 
 ## Introduction
 
-### Belay that order! Update - 12/13/01
-What we have here is a failure to comunicate!
-Apparently Blue shit is not meant to be taken as a full blown title but more of a "... we let you play the scientest (Half Life) and the military (Opposing Forces) we might as well finish it up by letting you play the security guard (Blue Shift) ..." type thing. So maybe I was a bit harsh but still a new title is a new title and should not let players down so badly. I'm leaving the review as it stands for that reason. But I'll try and play Opposing Forces and review that when I'm done... Just hope it's NOT in a few hours.
-
-### Orginal Intro
-The Academy never prepared you for this... That is the understatement of the year! This is the shortest game that I have ever played!!! I know it's tough to come out with story lines for FPS... only so many ways to say,"Shoot everybody and don't die." This game is based on a great game called Half Life where you run around as a scientest trying to save the world after an experiment goes severly wrong. Now this is a hard act to follow of course, but they could have done a little better story which is basicly to save your ass, a Black Mesa security guard, and the few scientest needed to acieve that objective.
+BIGGER. BETTER. DA BOMB!!!
+This is the second time me and Abysal went to Lan2k1 and it just gets better each time. Well this time we brought backup. 12 of us were there and we showed them what it means to be a GOD!!! Since so many GODS showed up I decided to get some input from them too.
 
 ## Requirements
 
 1. Minimum Required
-    * Windows© 95/98/NT/2000/ME
-    * Intel Pentium® 233 or AMD K6® -2
-    * 32 MB RAM
-    * 400 MB HD Space
-    * 2x CD ROM Drive
-    * SVGA, high-color (16-bit)
-    * Win-compatible Soundcard
-
+    * PC with NIC and extra space on HD (approx 4GB free)
+2. Recommended
+    * PC with NIC and games loaded already
 
 ## Stability
 
-**Rate: 8** 
+**Rate: 9** 
 
-Well no one can fault them on the engine they decided to use. The HalfLife is a very stable engine and Mods are plentiful so you can see the true versitility in the engine. I did have some issues when playing thou. Mostly when on the lifts or when crouching and crawling threw TIGHT parts of the game I noticed that you would get "stuck" in place. Now if this is only aproblem with just my PC.. ok . If others have the same issues then I have to wonder what they did to the game to cause such a specific problem.
+3 parties, 60+ people ( I dunno if we ever got a FINAL count of how many), and WHOLE HECK OF ALOT OF BAWLS!!! We can be as loud as we want... never have to worry about being crowded... and frag and frag to our little hearts content. This place is great but I really think we are begining to see the max possiblity of this location. Not to say 60+ isn't a good number but I dunno where they are gonna put people, let alone get power for them.
 
- ![Gameplay](bs-0.jpg)
+ ![Gameplay](lan2k1-4-0.jpg)
  
 ## ReUseability
 
-**Rate: 6**
- 	"Half-Life: Blue Shift also contains Half-Life: Opposing Force, the award winning episode that casts you as one of the military specialists assigned to eliminate Gordon Freeman." This is the only thing that can save this game. Though I'm sure it's just like the mods and such so if you already have them, don't bother.
+**Rate: 8.9**
+### -DoomXexec311-
 
-  ![Gameplay](bs-1.jpg)
+Yo, I had a great time at this LAN. Was expecting more competition plus more tournaments to occur but they all didn't due to time. Anyhow it was great owning it up :) I'm glad I won the p4 chip and mobo.... muwhaha. Till next LAN hopefully more tournaments will happen. Can't wait >:)
+
+### -CyberFireX-
+
+I would definitely come back to lan 2k1. There was a lot going on and always 2 or 3 different games to play. There were lots of cool people. A couple of annoying people, but that's to be expected. I definitely would recommend it to everyone. Just a tip though, treat your stuff as if you were leaving it out on the sidewalk, this is a public event not a friendly one. Keep an eye on everything, and don't leave your stuff lying about.
+
+  ![Gameplay](lan2k1-4-1.jpg)
 
 ## Compatability
 
 **Rate: 8** 
-Well just look at the min req... It looks like it would run on almost anything. You would think ... Check out Grafix for more details into this comment.
+Well it was bound to happen. The more people you add to the mix the more of a chance that 1 of them will piss someone off. Luckly it was handled very quietly and I believe all in volved realized what they did wasnot the best thing to do. For those not in the know... Don't worry about it. It was nothing, just keep in mind that this is a big even and people from all over attend these. It's not a party of friends and what you think is funny might piss someone else off.
 
- ![Gameplay](bs-2.jpg)
+ ![Gameplay](lan2k1-4-2.jpg)
 
 ## Grafix
 
-**Rate: 7* 
-Now you read the Min req right? Well as you can tell by my PC specs, I have a more then half decent Video Card. A Geforce 2 Pro is nothing to sneeze at right? Well I had odd video probs. Direct3d would act up if hit the ESC button to get to the main menu. It would not return to the game and show you the screen.Weird but not the end of the world... Open GL Allows you access back and forth but there would be odd anomilies in game. Doors that are raise (opened) could sometimes be seen threw the wall. Blast marks from a distant looked like a glitch in the game untill you get closer. Software runs as predicted. Now don't get me wrong... The New HD models and all are always nice eye candy but only if you don't notice these other problems. Good luck!
+**Rate: 9* 
+The projection screen made a come back and was nice to watch. No Fog or Disco lights which was good.
 
-![Gameplay](bs-3.jpg)
+![Gameplay](lan2k1-4-3.jpg)
 
 ## FX
 **Rate: 8** 
-Don't expect anything more then what you get from Half Life. The "Blow torches cutting doors open" scenes are neat, I'm sure they just manipulated something already in the game. The HD models and textures are nice.. but that's it. They utilized steam, heat, and checmial damage more then the orginal but it was all there the first time round too.
+Everything was fine, UNTIL... (Blinding light!!!) Yep some one managed to find the light switch and take down half the GODS crew. I know we were kicking some butt, but come one... there has got to be a better way to beat us without blowing a circuit breaker. Just kidding!!!
 
- ![Gameplay](bs-4.jpg)
+### -CyberFireX-
+
+The prizes were awesome, and the raffle was a good idea. The fact that he gave away the best prizes as raffles meant that the games were more for fun than bitter competition. The observer view screen was a great idea, it let people watch the battle without crowding the gamers. The network was great. My only real complaint was that the microphone they were using was highly inadequate, they should consider putting speakers around the room for that, or multiple boxes, and doing rogerwilco. They had a great idea with posting an intranet webpage, and putting common drivers, and game patches up there so that everyone could get to them.
+
+ ![Gameplay](lan2k1-4-4.jpg)
 
 ## Network
-**Rate: 9** 
-Well it's still 32 player and I'm sure it play just like any HL mod.
+**Rate: 9.5** 
+As usual an impressive setup. Fiber uplinks were nice but we noticed that the 3 Switches were not in use, only 2. Dunno what happened... not sure anyone really does but it's just an observasion. In LAN2k1's defense they ran good old CAT5 to the GODS section and all was good. The "overflow" area(I think it was up front) made good use of my 16 port switch. I was happy to help. OH speaking of HELP. I met some great guys at Lan2k1... Why? cause they were haveing some problems getting connected. While I don't mind helping (and these guys were great guys to hang with too) I do get just a little upset when people don't test their hardware. The problem boiled down to a bad Cat5 cable they brought from home. Like I said I didn't mind helping but please... PLEASE!!!.... check your stuff BEFORE you come to a party. It saves time and you'll get into the game faster.
 
- ![Gameplay](bs-5.jpg)
-
+ ![Gameplay](lan2k1-4-5.jpg)
 
 ## Overall
-**Rate: 7.6** 
-TOO damn short!!! Again I know it a little tough with Freeman's story in place, but they could have done something... Off the top of my head, they could have elongated the game by making the first half of the game a Lock down and prevent things from getting outside. Maybe delve a little into preventing Freeman from escaping and watching him from a view screen, maybe. Going into the story a little more about the "Administrator" for a bit. And then after they realize that the military are out to destroy "EVERYTHING"(maybe over hear orders being given by the admin to a soldier) in Black Mesa, then the second half could have been a save as many people as you can. They could have done a lot more if they wanted too.
+**Rate: 10** 
+### -=AbysaL=-
+I love lan parties, I can't imagine how boring my life would be with out them. I've been to Lan parties before, but I gotta say, lan2k1 throws the best ones! Especially this time around, there was food, plenty of drinks, and tons, tons of gaming! Can it really get any better then this? My friends and I also host lan parties on a monthly basis, and I hope that one day we can put something togther like lan2k1 did. Great job lan2k1!
 
- ![Gameplay](bs-6.jpg)
+ ![Gameplay](lan2k1-4-6.jpg)
 
 ## Conclusion
-If you don't mind being angry with yourself that your brand new copy of Blue Shift has only taken you a couple hours to complete, then by almeans buy it. I think the story could have been done better and answered some questions with out messing up the classic story of HL.
+I'm glad 8-Ball made an apperance, dunno if it would have been the same with out him. Well Lan2k1 has done it again. I hope they keep doing it too for years to come. Games, Tourneys, Meatballs (which were great)... we got it all and Bawls to wash it all down. Can't wait till v5.0 AND the big party at Greenfields Fire Hall (Watch for it on LAN2k1's site). I'll see ya at the next lanparty!
 
-You have a few hours to kill.
-
-Don't care for a complex story.
-
-Then this is your kinda game!
-
-I on the other hand hope that someone makes a mod for this game that goes deeper into the story rather then take the easy way out of "just escape".
-
- <!-- ![Gameplay](bs-7.jpg) ![Gameplay](bs-8.jpg) ![Gameplay](bs-9.jpg) -->
+ ![Gameplay](lan2k1-4-7.jpg) ![Gameplay](lan2k1-4-8.jpg) ![Gameplay](lan2k1-4-9.jpg)

@@ -90,3 +90,4 @@ Great game, I highly recommend it for multi player gamming as well as going thro
 This is one of the new multi-player first person shooters that is a must try. The envionmental damage rocks! And one LAN I love to look at peoples faces when I blow the bridge out from under them :b Hopefully more future games will adopt envionmental damage.
 
  <!-- ![Gameplay](RF-7.jpg) ![Gameplay](RF-8.jpg) ![Gameplay](RF-9.jpg) -->
+ 

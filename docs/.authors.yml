@@ -16,14 +16,16 @@ authors:
     description: Veteran Member
     avatar:  ./authors/abysal.jpg
     url: ../authors/abysal/
+
   doomxexec311:
     name: DoomXexec311
     description: Member
-    avatar: ./authors/doom.jpg
-    url: ../authors/doom/
+    avatar: ./authors/doomxexec311.jpg
+    url: ../authors/doomxexec311/
+
   cyberfirex:
     name: CybrFireX
     description: Veteran Member
-    avatar:  ./authors/cyberfirex.jpg
+    avatar:  ./authors/circle-user-regular.svg
     url: ../authors/cyberfirex/
     

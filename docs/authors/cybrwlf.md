@@ -11,7 +11,6 @@ tags:
 
 
 
-
 ### Personal Input
 
 I dunno why no one likes driving with me. I thought doing figure eights in the car right after the computer show in a major snow storm was fun! It was so much more fun then loading the car with 4 people and 4 full PCs(Montiors, Cases, the works), but we that we did too.

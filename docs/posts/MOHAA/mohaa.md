@@ -95,5 +95,5 @@ The single player demo makes you hunger for the real thing! A movie of the Omaha
 ## Conclusion
 You owe it to yourself to check out the single player demo. This game will hopefully turn into a LAN party favorite as more multiplayer maps are released. But for now, sniping bots in the single player demo will have to tie us over until later in January when the game is released.
 
-
  ![Gameplay](xmoh-7.jpg) ![Gameplay](xmoh-8.jpg) ![Gameplay](xmoh-9.jpg)
+ 

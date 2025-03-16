@@ -1,3 +1,3 @@
 # Welcome to LanpartyGoDS.com
 
-![lanpartygods image](assets/splash1.jpg)
+![lanpartygods image](assets/splash2.jpg)

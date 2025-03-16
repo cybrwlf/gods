@@ -22,6 +22,7 @@ I like to play many RTS games such as : Starcraft : Brood Wars, AOE2 : Expansion
 ### Computer Specs
 
 <img src="../computer-solid.svg" width="160" height="120">
+<img src="computer-solid.svg" width="160" height="120">
 
 | Type          | / | Spec as of 2001                        |
 | :-----------  | - | :------------------------------------: |

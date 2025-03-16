@@ -84,7 +84,6 @@ Well it's still 32 player and I'm sure it play just like any HL mod.
 
  ![Gameplay](bs-5.jpg)
 
-
 ## Overall
 **Rate: 7.6** 
 TOO damn short!!! Again I know it a little tough with Freeman's story in place, but they could have done something... Off the top of my head, they could have elongated the game by making the first half of the game a Lock down and prevent things from getting outside. Maybe delve a little into preventing Freeman from escaping and watching him from a view screen, maybe. Going into the story a little more about the "Administrator" for a bit. And then after they realize that the military are out to destroy "EVERYTHING"(maybe over hear orders being given by the admin to a soldier) in Black Mesa, then the second half could have been a save as many people as you can. They could have done a lot more if they wanted too.

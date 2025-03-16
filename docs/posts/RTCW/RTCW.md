@@ -100,3 +100,4 @@ This game looks like a winner. Good graphics and sound, a solid game engine, goo
 The story line is one that is more fictional, but that's actually what ended up attracting me to the game. It feels like DOOM or Quake when I play because I'm on the constant look out for secrets and monsters popping out. And some parts of the game go me a bit scared like in Aliens vs. Predator [I couldn't play that game..I'm a whimp :( ]. The part that gave me a real scare was the spiked pit in the Crypt, you'll know what I mean when you get there :)
 
  ![Gameplay](rtcw-7.jpg) ![Gameplay](rtcw-8.jpg) ![Gameplay](rtcw-9.jpg)
+ 
