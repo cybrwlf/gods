@@ -1,0 +1,15 @@
+authors:
+  cybrwlf: 
+    name: CybrWlf
+    description: Veteran Member
+    avatar:  https://cybrwlf.github.io/lanyon/public/img_members/CybrWlf.png
+    url: https://cybrwlf.com
+  heller:
+    name: Heller
+    description: Veteran Member
+    avatar: https://cybrwlf.github.io/lanyon/public/img_members/Heller.jpg
+    url: https://thegxl.com
+  squidfunk:
+    name: Martin Donath
+    description: Creator
+    avatar: https://github/squidfunk.png
