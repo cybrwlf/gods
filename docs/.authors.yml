@@ -28,4 +28,10 @@ authors:
     description: Veteran Member
     avatar:  ./authors/circle-user-regular.svg
     url: ../authors/cyberfirex/
+
+  flux: 
+    name: Flux
+    description: Veteran Member
+    avatar:  ./authors/flux.jpg
+    url: ../authors/flux/
     
