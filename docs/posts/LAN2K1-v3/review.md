@@ -39,7 +39,7 @@ Cramped Lan. Sounds uncomfortable but it was suprizingly spacious. The name came
 
 Everything was good. No fights, arguments or anything... well except for which game to play next.
 
- ![Image](image-1.gif)
+ ![Image](image-1.jpg)
  
 ## ReUseability
 
@@ -47,7 +47,7 @@ Everything was good. No fights, arguments or anything... well except for which g
 
 This was very fun. It was just a bunch of guys playin and having fun. The food was definatly a nice touch but I'm sure it got expensive for the host. I would definately come back even if they don't offer the food.
 
-  ![Image](image-2.gif)
+  ![Image](image-2.jpg)
 
 ## Compatability
 
@@ -55,7 +55,7 @@ This was very fun. It was just a bunch of guys playin and having fun. The food w
 
 Definately an open atmosphere. I liked the fact that we were not banished to a basement and reminded to "keep it down". We were in the heart of the house (dining area, spilling into the kitchen) and not once did anyone tell me to keep it down. Now normaly I would not be offended even IF they did tell me to lower my voice, because I do know I am naturally very loud.
 
- ![Image](image-3.gif)
+ ![Image](image-3.jpg)
 
 ## Grafix
 
@@ -63,7 +63,7 @@ Definately an open atmosphere. I liked the fact that we were not banished to a b
 
 n/a
 
-![Image](image-4.gif)
+![Image](image-4.jpg)
 
 ## FX
 
@@ -71,7 +71,7 @@ n/a
 
 I didn't find this out till later in the lanparty but a laptop with a simple web cam was recording pix every minute. It's a simple idea but I like it ... It's not novel, Lan2k1 did it before... It's not very Hi-Tech... but you know what ... It's a cool idea and I like it ... always have and always will.
 
-![Image](image-5.gif)
+![Image](image-5.jpg)
 
 ## Network
 
@@ -79,7 +79,7 @@ I didn't find this out till later in the lanparty but a laptop with a simple web
 
 Network was fine. Internet Access was a nice touch and was bearly abused, which is always good. I would recommend a few dedicated servers but otherwise it was fine.
 
-![Image](image-6.gif)
+![Image](image-6.jpg)
 
 ## Overall
 
@@ -87,10 +87,10 @@ Network was fine. Internet Access was a nice touch and was bearly abused, which 
 
 The Lan Was great. The people and atmosphere were good too. When you have all this it's hard to not have a good time.
 
- ![Image](image-7.gif)
+ ![Image](image-7.jpg)
 
 ## Conclusion
 
 I can't wait till there is another lan like this. It was just more fun.
 
-![Image](image-8.gif) ![Image](image-9.gif)
+![Image](image-8.jpg) ![Image](image-9.jpg)
